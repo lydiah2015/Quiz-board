@@ -36,6 +36,14 @@ const Questions=[
         "name":"question5",
 
     },
+    {
+        "Question":"According to your JS knowledge, something that performs an action is called a?",
+        "choices":["String","Method","Function","Variable"],
+        "answer":"Function",
+        "score":5,
+        "name":"question6",
+
+    },
     ]
 var score=0;
 
@@ -100,6 +108,7 @@ var checkAnswers = function(){
     score=0;
     return true;
 }
+
 
 
 
