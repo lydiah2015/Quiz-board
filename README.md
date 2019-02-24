@@ -19,14 +19,13 @@
 - CSS
 - Javascript
 - jQuery
-- Visual studio code
-- git
-
 
 ## Known Bugs
 - There are no known bugs currently.The page works as expected.
-- Support and Contact Details
+
+## Support and Contact Details
 - For any comments,suggestions,feedback or inquiries, contact me via email:mitchellemakini15@gmail.com or via telephone :0793003140 as well as via github lydiah2015
 - Make contributions to the code.Copyright(c) {2019}{Makini Lydia}
+
 ## License
 - {Determine the license under which this application can be used. See below for more details on licensing.} Copyright (c) {2019} Makini
