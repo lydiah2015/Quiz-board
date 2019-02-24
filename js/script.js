@@ -15,12 +15,27 @@ const Questions=[
         },
     {
 
-        "Question":"When a user views a page containing Javascript program which machine actually executes the code?",
-        "choices":["The user's machine running a web browser","The webserver","A central machine deep within Netscape's corporate office","None listed above"],
-        "answer":"The user's machine running a web browser",
+        "Question":"Inside which HTML element do we put the JavaScript code?",
+        "choices":["<html></html>","<script></script>","<body></body>","<head></head>"],
+        "answer":"<script></script>",
         "score":5,
         "name":"question3",
     },  
+    {
+        "Question":"Which one of the following is a function?",
+        "choices":["confirm()","toExponential()","toString()","toFixed()"],
+        "answer":"confirm()",
+        "score":5,
+        "name":"question4",
+    },
+    {
+        "Question":"",
+        "choices":["","","",""],
+        "answer":"",
+        "score":5,
+        "name":"question5",
+
+    },
     ]
 var score=0;
 
@@ -85,4 +100,5 @@ var checkAnswers = function(){
     score=0;
     return true;
 }
+
 
