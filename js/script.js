@@ -16,8 +16,8 @@ const Questions=[
     {
 
         "Question":"Inside which HTML element do we put the JavaScript code?",
-        "choices":["<html></html>","<script></script>","<body></body>","<head></head>"],
-        "answer":"<script></script>",
+        "choices":["html","script","body","head"],
+        "answer":"script",
         "score":5,
         "name":"question3",
     },  
@@ -29,9 +29,9 @@ const Questions=[
         "name":"question4",
     },
     {
-        "Question":"",
-        "choices":["","","",""],
-        "answer":"",
+        "Question":"An action taken on something is referred to as?",
+        "choices":["Argument","Operation","Function","Method "],
+        "answer":"Function",
         "score":5,
         "name":"question5",
 
@@ -100,5 +100,6 @@ var checkAnswers = function(){
     score=0;
     return true;
 }
+
 
 
