@@ -74,7 +74,7 @@ var generateQuiz= function(){
     }
     $("#quiz-container").append(
         `
-        <button class="btn btn-primary" onclick="checkAnswers()">Submit</button>
+        <button class="button" onclick="checkAnswers()">Submit</button>
         `
     )
 }
@@ -102,7 +102,7 @@ var checkAnswers = function(){
         <div class="container">
             <h3> Your Score is `+score+`</h3>
         </div>
-        <button onclick="generateQuiz()" class="btn btn-primary">Retake quiz</button>
+        <button onclick="generateQuiz()" class="button">Retake quiz</button>
         `
     )
     score=0;
