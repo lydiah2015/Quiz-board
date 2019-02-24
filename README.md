@@ -18,6 +18,7 @@
 - HTML
 - CSS
 - Javascript
+- jQuery
 - Visual studio code
 - git
 
