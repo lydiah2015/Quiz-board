@@ -1,7 +1,8 @@
-.h1{
+.jumbotron{
     font-family: 'Bungee Inline', cursive;
     font-size: 15px;
     /* font-colour:rgb(255,144,144) */
+    background-color: gray
 }
 body{
     font-family: 'Lato', sans-serif;
