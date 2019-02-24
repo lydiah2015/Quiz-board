@@ -1,18 +1,26 @@
 const Questions=[
     {
-    "Question":"Who's is the fairest of them all?",
-    "choices":["Mitchelle","Lydia","Makini","all of the above"],
-    "answer":"all of the above",
+    "Question":"What are variables used for in Javascript programs?",
+    "choices":["storing numbers,dates and other values","varying randomly","algebra","all of the above"],
+    "answer":"storing numbers,dates and other values",
     "score":5,
     "name":"question1",
     },
     {
-        "Question":"What do you love drinking?",
-        "choices":["glen rock","Hennesy","red label","blue moon"],
-        "answer":"glen rock",
-        "score":10,
+        "Question":"When a user views a page containing Javascript program which machine actually executes the code?",
+        "choices":["The user's machine running a web browser","The webserver","A central machine deep within Netscape's corporate office","None listed above"],
+        "answer":"The user's machine running a web browser",
+        "score":5,
         "name":"question2",
         },
+    {
+
+        "Question":"When a user views a page containing Javascript program which machine actually executes the code?",
+        "choices":["The user's machine running a web browser","The webserver","A central machine deep within Netscape's corporate office","None listed above"],
+        "answer":"The user's machine running a web browser",
+        "score":5,
+        "name":"question3",
+    },  
     ]
 var score=0;
 
